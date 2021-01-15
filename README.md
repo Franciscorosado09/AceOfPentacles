@@ -4,9 +4,9 @@ Ace of Pentacles is a tarot reading and astrology application utilizing RESTful 
 
 [Project Links]
 
-Deployed application: https://rwanke14.github.io/AceOfPentacles/ 
+Deployed application:  https://franciscorosado09.github.io/AceOfPentacles/
 
-Github repo: https://github.com/rwanke14/AceOfPentacles 
+Github repo: https://github.com/Franciscorosado09/AceOfPentacles
 
 [Project Screenshots]
 
