@@ -56,9 +56,9 @@ Contact form if user wishes to contact the developers.
 
 [Contributors]
 
-Rachel Wanke - CSS/HTML/Project Management
+Rachel Wanke - CSS/HTML/Project Management/Javascript
 
-Frankie Rosado - CSS/HTML/Design
+Frankie Rosado - CSS/HTML/Design/Javascript
 
 Amir Ashtiany- Javascript/Local Storage/API/Horoscope Page
 
